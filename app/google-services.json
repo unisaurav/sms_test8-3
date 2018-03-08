@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227767074779",
+    "firebase_url": "https://smstest-c8bfa.firebaseio.com",
+    "project_id": "smstest-c8bfa",
+    "storage_bucket": "smstest-c8bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227767074779:android:366dc5a849a0af70",
+        "android_client_info": {
+          "package_name": "com.example.shubhamk.sms_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227767074779-9k2bbe0ncd1qdg6s08evg9fpmc0phspl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuGNIZ3S7Ah4Sl1ZSm-Drng2ErGN8LGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
